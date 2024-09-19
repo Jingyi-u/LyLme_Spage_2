@@ -1,6 +1,9 @@
 # LyLme_Spage_2
 https://gitee.com/lylme/lylme_spage/tree/v1.6.0
 
+![image](https://github.com/user-attachments/assets/d9b87388-6f4a-4e07-ac5d-7b77fc320dbf)
+
+
 
 首先在http://ip/apply/下发起一个申请
 Start by making an application at http://ip/apply/
